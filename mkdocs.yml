@@ -1,6 +1,6 @@
 site_name: Mi Página Personal
 site_author: Michael Jiménez
-#site_url: https://michael-jimenez.github.io
+site_url: https://michael-jimenez.github.io
 
 theme:
   name: dracula  # Prueba: material, mkdocs, readthedocs
