@@ -1,0 +1,8 @@
+:root {
+  .drac-bg-cyan-green {
+    background: linear-gradient(var(--gradientDegree), blue 0, white 100%);
+    }
+  .row-preview {
+    display: none;
+    }
+}

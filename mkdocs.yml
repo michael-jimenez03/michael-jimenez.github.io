@@ -1,0 +1,17 @@
+site_name: Mi Página Personal
+site_author: Michael Jiménez
+#site_url: https://michael-jimenez.github.io
+
+theme:
+  name: dracula  # Prueba: material, mkdocs, readthedocs
+  favicon: assets/favicon.ico
+nav:
+  - Inicio: index.md
+  - Sobre Mí: sobre-mi.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
+
+repo_url: https://github.com/michael-jimenez03/michael-jimenez.github.io
+
+extra_css:
+  - stylesheets/style.css
